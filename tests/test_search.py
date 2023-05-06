@@ -7,7 +7,10 @@ ANIMALS = [
     'panda',
     'python',
     'parrot',
-    'peacock'
+    'peacock',
+    'lion',
+    'tiger',
+    'whale'
 ]
 # def test_basic_duckduckgo_search(page: Page) -> None:
 #     search_page = DuckDuckGoSearchPage(page)
