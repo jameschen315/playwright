@@ -13,9 +13,6 @@ class gmail_AccountPage:
     username = data['username']
     password = data['password']
     url = data['gmail_url']
-    # url = 'https://gmail.com'
-    # username = 'sfsukid2@gmail.com'
-    # password = 'Happytester972'
 
 
     # constructor like and pass playwright page
